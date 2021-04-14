@@ -1,0 +1,3 @@
+export default {
+    GET_DATA_PROJECT_GETTERS: 'GET_DATA_PROJECT_GETTERS'
+}

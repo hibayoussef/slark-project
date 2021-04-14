@@ -1,0 +1,7 @@
+
+let types = {
+  GET_TOKEN_STATE_TYPES: 'GET_TOKEN_STATE_TYPES',
+  GET_EMAIL_STATE_TYPES: 'GET_EMAIL_STATE_TYPES'  
+};
+
+export default types;
